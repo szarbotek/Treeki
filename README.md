@@ -1,2 +1,3 @@
 # Treeki
-Console display of simple structure as tree
+Simle class for display console tree model of object.
+For example class with class as atributes
