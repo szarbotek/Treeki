@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+Treeki.egg-info/PKG-INFO
+Treeki.egg-info/SOURCES.txt
+Treeki.egg-info/dependency_links.txt
+Treeki.egg-info/top_level.txt
+test/test_treeki.py
+treeki/__init__.py
+treeki/treeki.py
